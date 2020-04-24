@@ -3,6 +3,12 @@ This module can be imported as python library to perform required math operation
 Module can be extended based on requirement. 
 For simplicity and basic understanding of python module very basis functions are added
 
+__init__.py is normally empty but here empty function is created because empty file was unable to commit in GitHub. 
+That is not mandatory, you may leave file empty. 
+
+def empty():
+    pass
+   
 Available math function within this library are as follows: 
 
 # # We are going to create Math Module 
