@@ -8,6 +8,12 @@ That is not mandatory, you may leave file empty.
 
 def empty():
     pass
+    
+This module contains an example file (mathmodule usage.ipynb) to illustrate how mathmodule libraray can be used to perform 
+basic mathematical operations. 
+In this library only few Arithmetic and Geometrical calculations are performed. 
+This library can be extended based on requirement. 
+
    
 Available math function within this library are as follows: 
 
