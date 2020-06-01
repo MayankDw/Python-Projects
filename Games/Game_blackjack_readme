@@ -1,0 +1,8 @@
+## Game Black Jack
+
+# We have one player playing with dealer and wil follow most of the rules of Black Jack
+# Bet will start with initial chips on hand. 
+# When 21 number is reached winner is announced
+# Ace can be counted according to choice of 1 vs 10
+
+Run this file and Game will start automatically asking for player to bet. 
